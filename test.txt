@@ -1,0 +1,3 @@
+T?o Th? 1 File test.txt
+Pull th? lên trang htpp://github.com
+Dùng SmartGit
